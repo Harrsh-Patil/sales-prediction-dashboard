@@ -51,4 +51,4 @@ The dashboard includes:
 ---
 
 ## Author
-Harsh Patil
+Harshad Patil
